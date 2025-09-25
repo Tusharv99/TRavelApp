@@ -14,12 +14,7 @@ export default function RootLayout() {
             headerShown: false,
           }}
         />
-        <Stack.Screen
-          name="trending/[id]"
-          options={{
-            headerShown: false,
-          }}
-        />
+        
       </Stack>
     </>
   );
